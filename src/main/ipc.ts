@@ -1,7 +1,7 @@
 import { app, clipboard, ipcMain } from 'electron'
 import type { AppInfo } from '../shared/api'
 
-export const APP_DISPLAY_NAME = '大飞鱼'
+export const APP_DISPLAY_NAME = '大肥鱼'
 
 /** 注册主进程 IPC 处理器，渲染进程只通过 preload 暴露的通道访问这些能力 */
 export function registerIpcHandlers(): void {

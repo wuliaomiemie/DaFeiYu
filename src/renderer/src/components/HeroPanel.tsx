@@ -31,7 +31,7 @@ export function HeroPanel(): JSX.Element {
       </h1>
 
       <p className="mt-4 max-w-[660px] text-[14px] leading-relaxed text-slate-400">
-        大飞鱼是一个面向 Windows 的桌面客户端工程骨架：主进程与界面进程通过安全通道通信，开发态支持热更新，
+        大肥鱼是一个面向 Windows 的桌面客户端工程骨架：主进程与界面进程通过安全通道通信，开发态支持热更新，
         打包命令可直接产出带安装向导的 exe，把原型推进到「双击安装」只差一次构建。
       </p>
 

@@ -16,7 +16,7 @@ const FALLBACK_ENV: AppEnvInfo = {
 }
 
 const FALLBACK_INFO: AppInfo = {
-  name: '大飞鱼',
+  name: '大肥鱼',
   version: '0.1.0'
 }
 

@@ -26,6 +26,6 @@ nsis:
   allowToChangeInstallationDirectory: true
   createDesktopShortcut: true
   createStartMenuShortcut: true
-  shortcutName: 大飞鱼
+  shortcutName: 大肥鱼
   runAfterFinish: true
   deleteAppDataOnUninstall: false

@@ -19,14 +19,15 @@ export function AppHeader({ version }: AppHeaderProps): JSX.Element {
             strokeLinejoin="round"
             aria-hidden="true"
           >
-            <path d="M3.2 12c3-4.3 7-6.2 11-5.3 2.4.5 4.4 1.9 5.6 3.6-1.2 1.7-3.2 3.1-5.6 3.6-4 1-8-.9-11-5.2Z" />
-            <path d="M19.8 12 22.4 9.4M19.8 12l2.6 2.6" />
-            <circle cx="8.3" cy="10.9" r="0.9" fill="currentColor" stroke="none" />
+            <ellipse cx="10.4" cy="12" rx="7.1" ry="5.4" />
+            <path d="M17.1 12 22 8.4v7.2L17.1 12Z" />
+            <path d="M9.4 6.7c.9-1.6 1.7-1.9 2.4-1.6" />
+            <circle cx="6.9" cy="10.8" r="1" fill="currentColor" stroke="none" />
           </svg>
         </div>
 
         <div className="flex flex-col leading-tight">
-          <span className="text-[17px] font-semibold tracking-wide text-slate-100">大飞鱼</span>
+          <span className="text-[17px] font-semibold tracking-wide text-slate-100">大肥鱼</span>
           <span className="mt-0.5 text-[10px] font-medium uppercase tracking-[0.26em] text-slate-500">
             DaFeiYu Desktop
           </span>

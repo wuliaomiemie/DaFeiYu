@@ -1,4 +1,4 @@
-# 大飞鱼（DaFeiYu）
+# 大肥鱼（DaFeiYu）
 
 基于 **Electron 45 + React 19 + TypeScript 5 + Vite** 的 Windows 桌面应用骨架，开箱即用，支持一键打包成带安装向导的 `.exe`。
 
@@ -28,7 +28,7 @@ npm run build:unpack   # 只生成免安装目录，便于快速验证
 
 - NSIS 安装向导，`oneClick: false`，可自行选择安装目录
 - 默认按当前用户安装（`perMachine: false`），无需管理员权限
-- 自动创建桌面快捷方式与开始菜单项，快捷方式名为「大飞鱼」
+- 自动创建桌面快捷方式与开始菜单项，快捷方式名为「大肥鱼」
 
 ## 常用命令
 

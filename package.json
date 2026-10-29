@@ -1,7 +1,7 @@
 {
   "name": "dafeiyu",
   "version": "0.1.0",
-  "description": "大飞鱼 - 基于 Electron + React + TypeScript 的 Windows 桌面应用",
+  "description": "大肥鱼 - 基于 Electron + React + TypeScript 的 Windows 桌面应用",
   "main": "./out/main/index.js",
   "author": "wuliaomiemie",
   "license": "MIT",
